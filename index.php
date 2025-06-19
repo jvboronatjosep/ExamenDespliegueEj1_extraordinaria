@@ -1,4 +1,5 @@
 <?php
+
 require_once 'src/Areas.php';
 
 use App\Areas;
